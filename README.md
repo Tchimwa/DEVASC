@@ -11,3 +11,4 @@ Preparing for my DevNet Associate Exam. I will be sharing the my study plan, the
 - Nick Russo Plurasight course: https://app.pluralsight.com/paths/certificate/cisco-certified-devnet-associate-devasc-200-901
 - Nick Russo Study Plan Youtube: https://www.youtube.com/watch?v=AhPloufPDH8
 - Nick Russo Study plan Excel file: http://njrusmc.net/jobaid/devasc_studyplan.xlsx
+- Official Study guide: https://www.ciscopress.com/store/cisco-certified-devnet-associate-devasc-200-901-official-9780136677338
